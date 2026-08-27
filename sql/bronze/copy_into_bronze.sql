@@ -17,16 +17,18 @@ CREATE STAGE IF NOT EXISTS snowmart_stage
 COPY INTO customers_raw (raw_data, file_name)
 FROM (
     SELECT $1, METADATA$FILENAME
-    FROM @snowmart_stage/customers/
+    FROM @snowmart_stage
 )
 FILE_FORMAT = (TYPE = JSON)
+PATTERN = '.*customers.*\.json.*'
 ON_ERROR = CONTINUE;
 
 -- Load order data from the staged file into Bronze
 COPY INTO orders_raw (raw_data, file_name)
 FROM (
     SELECT $1, METADATA$FILENAME
-    FROM @snowmart_stage/orders/
+    FROM @snowmart_stage
 )
 FILE_FORMAT = (TYPE = JSON)
+PATTERN = '.*orders.*\.json.*'
 ON_ERROR = CONTINUE;
