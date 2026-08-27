@@ -1,38 +1,27 @@
 -- ====================================================================
 -- SCRIPT: 01_rbac_and_compute.sql
--- PURPOSE: Set up Role-Based Access Control (RBAC) and Virtual Warehouses
+-- PURPOSE: Create the main Role and Warehouse for the pipeline
 -- ====================================================================
 
+-- 1. Create Role (Requires SECURITYADMIN)
 USE ROLE SECURITYADMIN;
-
--- 1. Create Custom Roles
 CREATE ROLE IF NOT EXISTS snowmart_data_engineer;
-CREATE ROLE IF NOT EXISTS snowmart_analyst;
 
--- 2. Build Role Hierarchy (SYSADMIN inherits custom roles)
+-- Grant role to SYSADMIN to maintain the hierarchy
 GRANT ROLE snowmart_data_engineer TO ROLE SYSADMIN;
-GRANT ROLE snowmart_analyst TO ROLE SYSADMIN;
 
--- 3. Assign Role to User
-GRANT ROLE snowmart_data_engineer TO USER ROWAN2005;
+-- Grant role to the current user so you can actually use it
+GRANT ROLE snowmart_data_engineer TO USER CURRENT_USER();
 
+-- 2. Create Warehouse (Requires SYSADMIN)
 USE ROLE SYSADMIN;
-
--- 4. Create Workload-Isolated Virtual Warehouses
--- ETL Warehouse (For Data Transformation)
 CREATE WAREHOUSE IF NOT EXISTS snowmart_etl_wh
-    WITH WAREHOUSE_SIZE = 'XSMALL'
+    WITH 
+    WAREHOUSE_SIZE = 'XSMALL'
     AUTO_SUSPEND = 60
     AUTO_RESUME = TRUE
     INITIALLY_SUSPENDED = TRUE;
 
--- BI Warehouse (For Data Analytics & Dashboarding)
-CREATE WAREHOUSE IF NOT EXISTS snowmart_bi_wh
-    WITH WAREHOUSE_SIZE = 'XSMALL'
-    AUTO_SUSPEND = 60
-    AUTO_RESUME = TRUE
-    INITIALLY_SUSPENDED = TRUE;
-
--- 5. Grant Warehouse Privileges
+-- Grant permissions to use the warehouse to our custom role
 GRANT USAGE ON WAREHOUSE snowmart_etl_wh TO ROLE snowmart_data_engineer;
-GRANT USAGE ON WAREHOUSE snowmart_bi_wh TO ROLE snowmart_analyst;
+GRANT OPERATE ON WAREHOUSE snowmart_etl_wh TO ROLE snowmart_data_engineer;
