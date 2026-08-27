@@ -1,0 +1,500 @@
+{"order_id": 5000, "customer_id": 168, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 14:08:00"}
+{"order_id": 5001, "customer_id": 140, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 1}], "order_date": "2026-08-20 16:41:00"}
+{"order_id": 5002, "customer_id": 123, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 2}], "order_date": "2026-08-20 18:15:00"}
+{"order_id": 5003, "customer_id": 257, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 2}], "order_date": "2026-08-20 17:08:00"}
+{"order_id": 5004, "customer_id": 232, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Headphones", "price": 150.0, "qty": 1}], "order_date": "2026-08-20 16:01:00"}
+{"order_id": 5005, "customer_id": 166, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 17:59:00"}
+{"order_id": 5006, "customer_id": 234, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}], "order_date": "2026-08-20 11:14:00"}
+{"order_id": 5007, "customer_id": 168, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 2}], "order_date": "2026-08-20 14:46:00"}
+{"order_id": 5008, "customer_id": 254, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 2}], "order_date": "2026-08-20 12:35:00"}
+{"order_id": 5009, "customer_id": 280, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 2}], "order_date": "2026-08-20 13:24:00"}
+{"order_id": 5010, "customer_id": 244, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 2}], "order_date": "2026-08-20 16:25:00"}
+{"order_id": 5011, "customer_id": 147, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 19:24:00"}
+{"order_id": 5012, "customer_id": 280, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 2}], "order_date": "2026-08-20 14:29:00"}
+{"order_id": 5013, "customer_id": 285, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 2}], "order_date": "2026-08-20 21:11:00"}
+{"order_id": 5014, "customer_id": 218, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 21:28:00"}
+{"order_id": 5015, "customer_id": 124, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 22:21:00"}
+{"order_id": 5016, "customer_id": 229, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 2}], "order_date": "2026-08-20 14:25:00"}
+{"order_id": 5017, "customer_id": 137, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Headphones", "price": 150.0, "qty": 2}, {"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 21:47:00"}
+{"order_id": 5018, "customer_id": 176, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 16:37:00"}
+{"order_id": 5019, "customer_id": 132, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}], "order_date": "2026-08-20 18:33:00"}
+{"order_id": 5020, "customer_id": 297, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 20:22:00"}
+{"order_id": 5021, "customer_id": 179, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 2}], "order_date": "2026-08-20 18:17:00"}
+{"order_id": 5022, "customer_id": 216, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 2}], "order_date": "2026-08-20 19:03:00"}
+{"order_id": 5023, "customer_id": 263, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Mouse", "price": 25.0, "qty": 2}], "order_date": "2026-08-20 11:20:00"}
+{"order_id": 5024, "customer_id": 185, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 2}], "order_date": "2026-08-20 20:18:00"}
+{"order_id": 5025, "customer_id": 200, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 2}], "order_date": "2026-08-20 19:58:00"}
+{"order_id": 5026, "customer_id": 299, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 15:22:00"}
+{"order_id": 5027, "customer_id": 104, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Headphones", "price": 150.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}], "order_date": "2026-08-20 18:28:00"}
+{"order_id": 5028, "customer_id": 148, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}], "order_date": "2026-08-20 20:43:00"}
+{"order_id": 5029, "customer_id": 183, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}], "order_date": "2026-08-20 21:14:00"}
+{"order_id": 5030, "customer_id": 210, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 2}], "order_date": "2026-08-20 14:58:00"}
+{"order_id": 5031, "customer_id": 266, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 1}], "order_date": "2026-08-20 21:54:00"}
+{"order_id": 5032, "customer_id": 140, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}], "order_date": "2026-08-20 19:28:00"}
+{"order_id": 5033, "customer_id": 206, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}], "order_date": "2026-08-20 14:37:00"}
+{"order_id": 5034, "customer_id": 174, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 21:35:00"}
+{"order_id": 5035, "customer_id": 238, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 2}], "order_date": "2026-08-20 18:26:00"}
+{"order_id": 5036, "customer_id": 285, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}], "order_date": "2026-08-20 10:44:00"}
+{"order_id": 5037, "customer_id": 133, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 10:57:00"}
+{"order_id": 5038, "customer_id": 114, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Tablet", "price": 600.0, "qty": 1}], "order_date": "2026-08-20 11:50:00"}
+{"order_id": 5039, "customer_id": 123, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 14:23:00"}
+{"order_id": 5040, "customer_id": 295, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 2}], "order_date": "2026-08-20 22:01:00"}
+{"order_id": 5041, "customer_id": 293, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}], "order_date": "2026-08-20 13:30:00"}
+{"order_id": 5042, "customer_id": 188, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Tablet", "price": 600.0, "qty": 1}], "order_date": "2026-08-20 17:41:00"}
+{"order_id": 5043, "customer_id": 178, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 14:14:00"}
+{"order_id": 5044, "customer_id": 164, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Tablet", "price": 600.0, "qty": 1}], "order_date": "2026-08-20 21:58:00"}
+{"order_id": 5045, "customer_id": 247, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 2}, {"item_name": "Headphones", "price": 150.0, "qty": 1}], "order_date": "2026-08-20 18:54:00"}
+{"order_id": 5046, "customer_id": 217, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 2}], "order_date": "2026-08-20 16:17:00"}
+{"order_id": 5047, "customer_id": 232, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Headphones", "price": 150.0, "qty": 1}], "order_date": "2026-08-20 13:55:00"}
+{"order_id": 5048, "customer_id": 141, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 2}, {"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}], "order_date": "2026-08-20 10:15:00"}
+{"order_id": 5049, "customer_id": 177, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 22:57:00"}
+{"order_id": 5050, "customer_id": 143, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 12:27:00"}
+{"order_id": 5051, "customer_id": 121, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}], "order_date": "2026-08-20 15:57:00"}
+{"order_id": 5052, "customer_id": 223, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 2}], "order_date": "2026-08-20 17:19:00"}
+{"order_id": 5053, "customer_id": 194, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}, {"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 2}], "order_date": "2026-08-20 11:20:00"}
+{"order_id": 5054, "customer_id": 265, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}], "order_date": "2026-08-20 19:26:00"}
+{"order_id": 5055, "customer_id": 279, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}], "order_date": "2026-08-20 10:31:00"}
+{"order_id": 5056, "customer_id": 145, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 13:54:00"}
+{"order_id": 5057, "customer_id": 203, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 1}, {"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 18:59:00"}
+{"order_id": 5058, "customer_id": 113, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 15:32:00"}
+{"order_id": 5059, "customer_id": 115, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 16:49:00"}
+{"order_id": 5060, "customer_id": 111, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 15:01:00"}
+{"order_id": 5061, "customer_id": 190, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}], "order_date": "2026-08-20 12:37:00"}
+{"order_id": 5062, "customer_id": 164, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}], "order_date": "2026-08-20 22:35:00"}
+{"order_id": 5063, "customer_id": 102, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 2}], "order_date": "2026-08-20 17:39:00"}
+{"order_id": 5064, "customer_id": 233, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 15:50:00"}
+{"order_id": 5065, "customer_id": 209, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 2}, {"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 13:12:00"}
+{"order_id": 5066, "customer_id": 209, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 13:32:00"}
+{"order_id": 5067, "customer_id": 228, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 1}], "order_date": "2026-08-20 20:55:00"}
+{"order_id": 5068, "customer_id": 108, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Headphones", "price": 150.0, "qty": 1}], "order_date": "2026-08-20 22:10:00"}
+{"order_id": 5069, "customer_id": 199, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 2}], "order_date": "2026-08-20 16:39:00"}
+{"order_id": 5070, "customer_id": 109, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 22:03:00"}
+{"order_id": 5071, "customer_id": 189, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 16:33:00"}
+{"order_id": 5072, "customer_id": 230, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}], "order_date": "2026-08-20 21:07:00"}
+{"order_id": 5073, "customer_id": 221, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 2}, {"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 20:37:00"}
+{"order_id": 5074, "customer_id": 157, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 17:27:00"}
+{"order_id": 5075, "customer_id": 141, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 2}], "order_date": "2026-08-20 21:14:00"}
+{"order_id": 5076, "customer_id": 234, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 11:43:00"}
+{"order_id": 5077, "customer_id": 128, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}], "order_date": "2026-08-20 14:51:00"}
+{"order_id": 5078, "customer_id": 106, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 20:49:00"}
+{"order_id": 5079, "customer_id": 274, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}], "order_date": "2026-08-20 12:19:00"}
+{"order_id": 5080, "customer_id": 222, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 20:38:00"}
+{"order_id": 5081, "customer_id": 183, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 15:34:00"}
+{"order_id": 5082, "customer_id": 273, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}], "order_date": "2026-08-20 22:26:00"}
+{"order_id": 5083, "customer_id": 221, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 18:50:00"}
+{"order_id": 5084, "customer_id": 258, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}], "order_date": "2026-08-20 12:34:00"}
+{"order_id": 5085, "customer_id": 210, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}], "order_date": "2026-08-20 11:34:00"}
+{"order_id": 5086, "customer_id": 118, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}], "order_date": "2026-08-20 15:53:00"}
+{"order_id": 5087, "customer_id": 252, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}], "order_date": "2026-08-20 10:57:00"}
+{"order_id": 5088, "customer_id": 190, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}, {"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}], "order_date": "2026-08-20 20:53:00"}
+{"order_id": 5089, "customer_id": 287, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}], "order_date": "2026-08-20 12:55:00"}
+{"order_id": 5090, "customer_id": 136, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 17:02:00"}
+{"order_id": 5091, "customer_id": 174, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 22:12:00"}
+{"order_id": 5092, "customer_id": 187, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}], "order_date": "2026-08-20 18:45:00"}
+{"order_id": 5093, "customer_id": 194, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 15:21:00"}
+{"order_id": 5094, "customer_id": 155, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 17:58:00"}
+{"order_id": 5095, "customer_id": 264, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 12:29:00"}
+{"order_id": 5096, "customer_id": 177, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 1}], "order_date": "2026-08-20 22:33:00"}
+{"order_id": 5097, "customer_id": 141, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}], "order_date": "2026-08-20 22:53:00"}
+{"order_id": 5098, "customer_id": 163, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 19:43:00"}
+{"order_id": 5099, "customer_id": 182, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}], "order_date": "2026-08-20 20:34:00"}
+{"order_id": 5100, "customer_id": 223, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 18:02:00"}
+{"order_id": 5101, "customer_id": 271, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 13:00:00"}
+{"order_id": 5102, "customer_id": 119, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 2}], "order_date": "2026-08-20 15:59:00"}
+{"order_id": 5103, "customer_id": 117, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 22:50:00"}
+{"order_id": 5104, "customer_id": 101, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 18:45:00"}
+{"order_id": 5105, "customer_id": 188, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 2}], "order_date": "2026-08-20 14:51:00"}
+{"order_id": 5106, "customer_id": 224, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 2}], "order_date": "2026-08-20 13:16:00"}
+{"order_id": 5107, "customer_id": 201, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 1}], "order_date": "2026-08-20 13:45:00"}
+{"order_id": 5108, "customer_id": 286, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 17:24:00"}
+{"order_id": 5109, "customer_id": 214, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 2}], "order_date": "2026-08-20 20:49:00"}
+{"order_id": 5110, "customer_id": 106, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 1}], "order_date": "2026-08-20 22:57:00"}
+{"order_id": 5111, "customer_id": 102, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 17:46:00"}
+{"order_id": 5112, "customer_id": 180, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 11:10:00"}
+{"order_id": 5113, "customer_id": 106, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 2}], "order_date": "2026-08-20 21:53:00"}
+{"order_id": 5114, "customer_id": 138, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 21:57:00"}
+{"order_id": 5115, "customer_id": 206, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}], "order_date": "2026-08-20 16:39:00"}
+{"order_id": 5116, "customer_id": 145, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 2}], "order_date": "2026-08-20 21:01:00"}
+{"order_id": 5117, "customer_id": 233, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}, {"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 2}], "order_date": "2026-08-20 15:17:00"}
+{"order_id": 5118, "customer_id": 233, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 16:41:00"}
+{"order_id": 5119, "customer_id": 219, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 19:46:00"}
+{"order_id": 5120, "customer_id": 231, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 2}, {"item_name": "Headphones", "price": 150.0, "qty": 2}], "order_date": "2026-08-20 18:04:00"}
+{"order_id": 5121, "customer_id": 102, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 20:38:00"}
+{"order_id": 5122, "customer_id": 138, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 1}], "order_date": "2026-08-20 20:57:00"}
+{"order_id": 5123, "customer_id": 196, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 1}, {"item_name": "Headphones", "price": 150.0, "qty": 2}], "order_date": "2026-08-20 22:14:00"}
+{"order_id": 5124, "customer_id": 105, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 2}], "order_date": "2026-08-20 14:03:00"}
+{"order_id": 5125, "customer_id": 150, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}], "order_date": "2026-08-20 18:25:00"}
+{"order_id": 5126, "customer_id": 252, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 20:15:00"}
+{"order_id": 5127, "customer_id": 200, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 21:35:00"}
+{"order_id": 5128, "customer_id": 140, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}], "order_date": "2026-08-20 12:03:00"}
+{"order_id": 5129, "customer_id": 103, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}, {"item_name": "Mouse", "price": 25.0, "qty": 2}], "order_date": "2026-08-20 16:49:00"}
+{"order_id": 5130, "customer_id": 277, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}], "order_date": "2026-08-20 12:41:00"}
+{"order_id": 5131, "customer_id": 148, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 14:16:00"}
+{"order_id": 5132, "customer_id": 152, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Tablet", "price": 600.0, "qty": 1}], "order_date": "2026-08-20 13:48:00"}
+{"order_id": 5133, "customer_id": 209, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 19:05:00"}
+{"order_id": 5134, "customer_id": 106, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 11:59:00"}
+{"order_id": 5135, "customer_id": 236, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}], "order_date": "2026-08-20 21:10:00"}
+{"order_id": 5136, "customer_id": 126, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 22:42:00"}
+{"order_id": 5137, "customer_id": 294, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}], "order_date": "2026-08-20 12:30:00"}
+{"order_id": 5138, "customer_id": 255, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 2}], "order_date": "2026-08-20 19:32:00"}
+{"order_id": 5139, "customer_id": 139, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}], "order_date": "2026-08-20 18:26:00"}
+{"order_id": 5140, "customer_id": 162, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}], "order_date": "2026-08-20 21:15:00"}
+{"order_id": 5141, "customer_id": 294, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 2}], "order_date": "2026-08-20 13:54:00"}
+{"order_id": 5142, "customer_id": 191, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 12:19:00"}
+{"order_id": 5143, "customer_id": 268, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 17:15:00"}
+{"order_id": 5144, "customer_id": 179, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 13:28:00"}
+{"order_id": 5145, "customer_id": 110, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 11:42:00"}
+{"order_id": 5146, "customer_id": 196, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Tablet", "price": 600.0, "qty": 1}], "order_date": "2026-08-20 13:29:00"}
+{"order_id": 5147, "customer_id": 140, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 2}], "order_date": "2026-08-20 19:31:00"}
+{"order_id": 5148, "customer_id": 267, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}], "order_date": "2026-08-20 14:10:00"}
+{"order_id": 5149, "customer_id": 115, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Tablet", "price": 600.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 2}], "order_date": "2026-08-20 22:46:00"}
+{"order_id": 5150, "customer_id": 106, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}, {"item_name": "Headphones", "price": 150.0, "qty": 1}], "order_date": "2026-08-20 13:41:00"}
+{"order_id": 5151, "customer_id": 291, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 1}], "order_date": "2026-08-20 16:37:00"}
+{"order_id": 5152, "customer_id": 257, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 2}], "order_date": "2026-08-20 13:37:00"}
+{"order_id": 5153, "customer_id": 101, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 14:48:00"}
+{"order_id": 5154, "customer_id": 249, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Headphones", "price": 150.0, "qty": 2}, {"item_name": "Headphones", "price": 150.0, "qty": 2}], "order_date": "2026-08-20 15:41:00"}
+{"order_id": 5155, "customer_id": 161, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 1}, {"item_name": "Headphones", "price": 150.0, "qty": 1}], "order_date": "2026-08-20 14:48:00"}
+{"order_id": 5156, "customer_id": 228, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 2}], "order_date": "2026-08-20 16:58:00"}
+{"order_id": 5157, "customer_id": 276, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 2}, {"item_name": "Mouse", "price": 25.0, "qty": 2}, {"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 12:48:00"}
+{"order_id": 5158, "customer_id": 233, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 1}], "order_date": "2026-08-20 15:06:00"}
+{"order_id": 5159, "customer_id": 171, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 16:58:00"}
+{"order_id": 5160, "customer_id": 211, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 10:02:00"}
+{"order_id": 5161, "customer_id": 183, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 2}], "order_date": "2026-08-20 18:50:00"}
+{"order_id": 5162, "customer_id": 146, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}], "order_date": "2026-08-20 13:30:00"}
+{"order_id": 5163, "customer_id": 272, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 13:08:00"}
+{"order_id": 5164, "customer_id": 122, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}], "order_date": "2026-08-20 19:05:00"}
+{"order_id": 5165, "customer_id": 118, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}], "order_date": "2026-08-20 12:14:00"}
+{"order_id": 5166, "customer_id": 226, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 2}], "order_date": "2026-08-20 17:33:00"}
+{"order_id": 5167, "customer_id": 206, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 2}], "order_date": "2026-08-20 10:26:00"}
+{"order_id": 5168, "customer_id": 115, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}], "order_date": "2026-08-20 21:33:00"}
+{"order_id": 5169, "customer_id": 234, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Headphones", "price": 150.0, "qty": 2}, {"item_name": "Headphones", "price": 150.0, "qty": 2}], "order_date": "2026-08-20 11:29:00"}
+{"order_id": 5170, "customer_id": 260, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 16:01:00"}
+{"order_id": 5171, "customer_id": 234, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Headphones", "price": 150.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 17:15:00"}
+{"order_id": 5172, "customer_id": 138, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}, {"item_name": "Tablet", "price": 600.0, "qty": 1}], "order_date": "2026-08-20 19:43:00"}
+{"order_id": 5173, "customer_id": 284, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 1}, {"item_name": "Headphones", "price": 150.0, "qty": 2}, {"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 12:04:00"}
+{"order_id": 5174, "customer_id": 293, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 11:27:00"}
+{"order_id": 5175, "customer_id": 217, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 2}], "order_date": "2026-08-20 19:58:00"}
+{"order_id": 5176, "customer_id": 177, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}], "order_date": "2026-08-20 14:30:00"}
+{"order_id": 5177, "customer_id": 250, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Tablet", "price": 600.0, "qty": 2}, {"item_name": "Tablet", "price": 600.0, "qty": 1}], "order_date": "2026-08-20 16:09:00"}
+{"order_id": 5178, "customer_id": 246, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 11:07:00"}
+{"order_id": 5179, "customer_id": 261, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 19:30:00"}
+{"order_id": 5180, "customer_id": 207, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 2}], "order_date": "2026-08-20 21:16:00"}
+{"order_id": 5181, "customer_id": 285, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 2}, {"item_name": "Mouse", "price": 25.0, "qty": 2}], "order_date": "2026-08-20 11:15:00"}
+{"order_id": 5182, "customer_id": 119, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}], "order_date": "2026-08-20 21:27:00"}
+{"order_id": 5183, "customer_id": 153, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 2}, {"item_name": "Tablet", "price": 600.0, "qty": 1}], "order_date": "2026-08-20 21:04:00"}
+{"order_id": 5184, "customer_id": 145, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 2}, {"item_name": "Mouse", "price": 25.0, "qty": 2}], "order_date": "2026-08-20 19:43:00"}
+{"order_id": 5185, "customer_id": 250, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Headphones", "price": 150.0, "qty": 2}, {"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 20:18:00"}
+{"order_id": 5186, "customer_id": 265, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}], "order_date": "2026-08-20 22:24:00"}
+{"order_id": 5187, "customer_id": 101, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}], "order_date": "2026-08-20 14:41:00"}
+{"order_id": 5188, "customer_id": 130, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 22:33:00"}
+{"order_id": 5189, "customer_id": 283, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Headphones", "price": 150.0, "qty": 1}], "order_date": "2026-08-20 16:43:00"}
+{"order_id": 5190, "customer_id": 189, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 11:00:00"}
+{"order_id": 5191, "customer_id": 159, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}], "order_date": "2026-08-20 13:27:00"}
+{"order_id": 5192, "customer_id": 213, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}], "order_date": "2026-08-20 16:23:00"}
+{"order_id": 5193, "customer_id": 149, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 1}], "order_date": "2026-08-20 10:17:00"}
+{"order_id": 5194, "customer_id": 213, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 2}], "order_date": "2026-08-20 13:07:00"}
+{"order_id": 5195, "customer_id": 181, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 10:45:00"}
+{"order_id": 5196, "customer_id": 269, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 11:44:00"}
+{"order_id": 5197, "customer_id": 247, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}], "order_date": "2026-08-20 12:54:00"}
+{"order_id": 5198, "customer_id": 170, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}], "order_date": "2026-08-20 15:38:00"}
+{"order_id": 5199, "customer_id": 290, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 2}], "order_date": "2026-08-20 18:28:00"}
+{"order_id": 5200, "customer_id": 201, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 2}], "order_date": "2026-08-20 15:27:00"}
+{"order_id": 5201, "customer_id": 151, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 17:41:00"}
+{"order_id": 5202, "customer_id": 185, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 2}], "order_date": "2026-08-20 17:17:00"}
+{"order_id": 5203, "customer_id": 110, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 21:37:00"}
+{"order_id": 5204, "customer_id": 205, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 21:44:00"}
+{"order_id": 5205, "customer_id": 229, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}], "order_date": "2026-08-20 21:32:00"}
+{"order_id": 5206, "customer_id": 277, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}], "order_date": "2026-08-20 18:38:00"}
+{"order_id": 5207, "customer_id": 209, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 2}], "order_date": "2026-08-20 10:20:00"}
+{"order_id": 5208, "customer_id": 243, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 22:26:00"}
+{"order_id": 5209, "customer_id": 213, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}, {"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 15:03:00"}
+{"order_id": 5210, "customer_id": 123, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 2}], "order_date": "2026-08-20 18:29:00"}
+{"order_id": 5211, "customer_id": 203, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 2}, {"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 13:00:00"}
+{"order_id": 5212, "customer_id": 182, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 21:34:00"}
+{"order_id": 5213, "customer_id": 277, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}], "order_date": "2026-08-20 19:18:00"}
+{"order_id": 5214, "customer_id": 215, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 20:36:00"}
+{"order_id": 5215, "customer_id": 155, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 18:30:00"}
+{"order_id": 5216, "customer_id": 278, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 1}], "order_date": "2026-08-20 22:47:00"}
+{"order_id": 5217, "customer_id": 216, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}, {"item_name": "Headphones", "price": 150.0, "qty": 2}], "order_date": "2026-08-20 19:33:00"}
+{"order_id": 5218, "customer_id": 136, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}], "order_date": "2026-08-20 11:56:00"}
+{"order_id": 5219, "customer_id": 266, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 2}], "order_date": "2026-08-20 19:05:00"}
+{"order_id": 5220, "customer_id": 131, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 2}, {"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 22:15:00"}
+{"order_id": 5221, "customer_id": 174, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 10:29:00"}
+{"order_id": 5222, "customer_id": 297, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}], "order_date": "2026-08-20 19:16:00"}
+{"order_id": 5223, "customer_id": 161, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 19:57:00"}
+{"order_id": 5224, "customer_id": 286, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 16:27:00"}
+{"order_id": 5225, "customer_id": 146, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 12:16:00"}
+{"order_id": 5226, "customer_id": 192, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 1}, {"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 11:11:00"}
+{"order_id": 5227, "customer_id": 175, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 11:43:00"}
+{"order_id": 5228, "customer_id": 190, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 11:30:00"}
+{"order_id": 5229, "customer_id": 240, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}, {"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 13:16:00"}
+{"order_id": 5230, "customer_id": 136, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 12:11:00"}
+{"order_id": 5231, "customer_id": 105, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 2}, {"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 18:33:00"}
+{"order_id": 5232, "customer_id": 278, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Tablet", "price": 600.0, "qty": 1}], "order_date": "2026-08-20 12:23:00"}
+{"order_id": 5233, "customer_id": 103, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 1}, {"item_name": "Headphones", "price": 150.0, "qty": 1}], "order_date": "2026-08-20 22:47:00"}
+{"order_id": 5234, "customer_id": 140, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 13:26:00"}
+{"order_id": 5235, "customer_id": 194, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 17:55:00"}
+{"order_id": 5236, "customer_id": 197, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 12:59:00"}
+{"order_id": 5237, "customer_id": 172, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}], "order_date": "2026-08-20 11:17:00"}
+{"order_id": 5238, "customer_id": 188, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}], "order_date": "2026-08-20 16:32:00"}
+{"order_id": 5239, "customer_id": 266, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 1}], "order_date": "2026-08-20 16:12:00"}
+{"order_id": 5240, "customer_id": 137, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 13:18:00"}
+{"order_id": 5241, "customer_id": 252, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 22:51:00"}
+{"order_id": 5242, "customer_id": 108, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 10:36:00"}
+{"order_id": 5243, "customer_id": 154, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 17:31:00"}
+{"order_id": 5244, "customer_id": 228, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Headphones", "price": 150.0, "qty": 2}, {"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 16:22:00"}
+{"order_id": 5245, "customer_id": 231, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 21:28:00"}
+{"order_id": 5246, "customer_id": 290, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 1}, {"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 10:24:00"}
+{"order_id": 5247, "customer_id": 271, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 12:14:00"}
+{"order_id": 5248, "customer_id": 154, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 10:55:00"}
+{"order_id": 5249, "customer_id": 176, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 16:58:00"}
+{"order_id": 5250, "customer_id": 185, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}], "order_date": "2026-08-20 16:40:00"}
+{"order_id": 5251, "customer_id": 166, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Headphones", "price": 150.0, "qty": 2}], "order_date": "2026-08-20 15:40:00"}
+{"order_id": 5252, "customer_id": 158, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 2}], "order_date": "2026-08-20 12:05:00"}
+{"order_id": 5253, "customer_id": 120, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Headphones", "price": 150.0, "qty": 2}], "order_date": "2026-08-20 16:41:00"}
+{"order_id": 5254, "customer_id": 230, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 2}], "order_date": "2026-08-20 15:37:00"}
+{"order_id": 5255, "customer_id": 297, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 2}], "order_date": "2026-08-20 13:19:00"}
+{"order_id": 5256, "customer_id": 168, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}], "order_date": "2026-08-20 10:00:00"}
+{"order_id": 5257, "customer_id": 173, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 2}], "order_date": "2026-08-20 20:26:00"}
+{"order_id": 5258, "customer_id": 277, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Headphones", "price": 150.0, "qty": 2}], "order_date": "2026-08-20 15:34:00"}
+{"order_id": 5259, "customer_id": 276, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 1}, {"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 19:31:00"}
+{"order_id": 5260, "customer_id": 229, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 2}], "order_date": "2026-08-20 18:14:00"}
+{"order_id": 5261, "customer_id": 217, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 22:50:00"}
+{"order_id": 5262, "customer_id": 226, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 22:20:00"}
+{"order_id": 5263, "customer_id": 174, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 20:01:00"}
+{"order_id": 5264, "customer_id": 168, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 2}], "order_date": "2026-08-20 16:47:00"}
+{"order_id": 5265, "customer_id": 202, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}], "order_date": "2026-08-20 20:45:00"}
+{"order_id": 5266, "customer_id": 150, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 20:45:00"}
+{"order_id": 5267, "customer_id": 271, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}, {"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 11:44:00"}
+{"order_id": 5268, "customer_id": 272, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 10:12:00"}
+{"order_id": 5269, "customer_id": 259, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 12:18:00"}
+{"order_id": 5270, "customer_id": 232, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 2}, {"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}], "order_date": "2026-08-20 17:41:00"}
+{"order_id": 5271, "customer_id": 261, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 2}], "order_date": "2026-08-20 15:49:00"}
+{"order_id": 5272, "customer_id": 299, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}], "order_date": "2026-08-20 17:33:00"}
+{"order_id": 5273, "customer_id": 122, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 22:37:00"}
+{"order_id": 5274, "customer_id": 196, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 2}], "order_date": "2026-08-20 20:18:00"}
+{"order_id": 5275, "customer_id": 100, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 1}], "order_date": "2026-08-20 21:04:00"}
+{"order_id": 5276, "customer_id": 299, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 1}], "order_date": "2026-08-20 19:59:00"}
+{"order_id": 5277, "customer_id": 282, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}], "order_date": "2026-08-20 20:28:00"}
+{"order_id": 5278, "customer_id": 262, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 2}], "order_date": "2026-08-20 14:21:00"}
+{"order_id": 5279, "customer_id": 249, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 2}], "order_date": "2026-08-20 14:34:00"}
+{"order_id": 5280, "customer_id": 105, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}], "order_date": "2026-08-20 10:18:00"}
+{"order_id": 5281, "customer_id": 284, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 2}], "order_date": "2026-08-20 21:10:00"}
+{"order_id": 5282, "customer_id": 113, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}], "order_date": "2026-08-20 21:00:00"}
+{"order_id": 5283, "customer_id": 246, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}], "order_date": "2026-08-20 14:41:00"}
+{"order_id": 5284, "customer_id": 254, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 15:59:00"}
+{"order_id": 5285, "customer_id": 285, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}], "order_date": "2026-08-20 14:41:00"}
+{"order_id": 5286, "customer_id": 116, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 14:24:00"}
+{"order_id": 5287, "customer_id": 135, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}], "order_date": "2026-08-20 13:36:00"}
+{"order_id": 5288, "customer_id": 299, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 17:32:00"}
+{"order_id": 5289, "customer_id": 137, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 12:53:00"}
+{"order_id": 5290, "customer_id": 164, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}], "order_date": "2026-08-20 11:21:00"}
+{"order_id": 5291, "customer_id": 205, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}], "order_date": "2026-08-20 22:27:00"}
+{"order_id": 5292, "customer_id": 139, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 10:40:00"}
+{"order_id": 5293, "customer_id": 191, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 17:18:00"}
+{"order_id": 5294, "customer_id": 269, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 12:19:00"}
+{"order_id": 5295, "customer_id": 249, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 12:13:00"}
+{"order_id": 5296, "customer_id": 196, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}], "order_date": "2026-08-20 11:35:00"}
+{"order_id": 5297, "customer_id": 196, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Headphones", "price": 150.0, "qty": 1}], "order_date": "2026-08-20 17:06:00"}
+{"order_id": 5298, "customer_id": 268, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 14:50:00"}
+{"order_id": 5299, "customer_id": 236, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 21:41:00"}
+{"order_id": 5300, "customer_id": 130, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 2}, {"item_name": "Mouse", "price": 25.0, "qty": 2}], "order_date": "2026-08-20 19:05:00"}
+{"order_id": 5301, "customer_id": 228, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 2}, {"item_name": "Headphones", "price": 150.0, "qty": 2}], "order_date": "2026-08-20 10:36:00"}
+{"order_id": 5302, "customer_id": 218, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 22:01:00"}
+{"order_id": 5303, "customer_id": 195, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}], "order_date": "2026-08-20 18:20:00"}
+{"order_id": 5304, "customer_id": 101, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 11:16:00"}
+{"order_id": 5305, "customer_id": 263, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 2}], "order_date": "2026-08-20 14:53:00"}
+{"order_id": 5306, "customer_id": 182, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}], "order_date": "2026-08-20 20:04:00"}
+{"order_id": 5307, "customer_id": 236, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}, {"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 22:29:00"}
+{"order_id": 5308, "customer_id": 132, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 13:27:00"}
+{"order_id": 5309, "customer_id": 249, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 1}], "order_date": "2026-08-20 11:07:00"}
+{"order_id": 5310, "customer_id": 285, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 18:39:00"}
+{"order_id": 5311, "customer_id": 216, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}], "order_date": "2026-08-20 19:27:00"}
+{"order_id": 5312, "customer_id": 184, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 2}], "order_date": "2026-08-20 16:39:00"}
+{"order_id": 5313, "customer_id": 286, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 15:03:00"}
+{"order_id": 5314, "customer_id": 123, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 13:24:00"}
+{"order_id": 5315, "customer_id": 221, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}, {"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 22:44:00"}
+{"order_id": 5316, "customer_id": 228, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 1}, {"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 18:02:00"}
+{"order_id": 5317, "customer_id": 265, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 2}], "order_date": "2026-08-20 22:14:00"}
+{"order_id": 5318, "customer_id": 193, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 2}], "order_date": "2026-08-20 22:31:00"}
+{"order_id": 5319, "customer_id": 105, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 14:29:00"}
+{"order_id": 5320, "customer_id": 123, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Headphones", "price": 150.0, "qty": 2}, {"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 17:08:00"}
+{"order_id": 5321, "customer_id": 131, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 22:11:00"}
+{"order_id": 5322, "customer_id": 163, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 1}], "order_date": "2026-08-20 13:27:00"}
+{"order_id": 5323, "customer_id": 281, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 18:09:00"}
+{"order_id": 5324, "customer_id": 216, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 2}], "order_date": "2026-08-20 10:05:00"}
+{"order_id": 5325, "customer_id": 280, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 1}], "order_date": "2026-08-20 10:07:00"}
+{"order_id": 5326, "customer_id": 225, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}, {"item_name": "Headphones", "price": 150.0, "qty": 2}], "order_date": "2026-08-20 19:20:00"}
+{"order_id": 5327, "customer_id": 211, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}], "order_date": "2026-08-20 17:21:00"}
+{"order_id": 5328, "customer_id": 130, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 22:32:00"}
+{"order_id": 5329, "customer_id": 123, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 21:53:00"}
+{"order_id": 5330, "customer_id": 118, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 2}], "order_date": "2026-08-20 10:13:00"}
+{"order_id": 5331, "customer_id": 128, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 18:22:00"}
+{"order_id": 5332, "customer_id": 181, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Tablet", "price": 600.0, "qty": 1}], "order_date": "2026-08-20 18:00:00"}
+{"order_id": 5333, "customer_id": 119, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 2}], "order_date": "2026-08-20 12:23:00"}
+{"order_id": 5334, "customer_id": 128, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 16:49:00"}
+{"order_id": 5335, "customer_id": 125, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 21:38:00"}
+{"order_id": 5336, "customer_id": 265, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}, {"item_name": "Headphones", "price": 150.0, "qty": 1}], "order_date": "2026-08-20 15:29:00"}
+{"order_id": 5337, "customer_id": 269, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 10:35:00"}
+{"order_id": 5338, "customer_id": 170, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}], "order_date": "2026-08-20 14:18:00"}
+{"order_id": 5339, "customer_id": 140, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}], "order_date": "2026-08-20 22:36:00"}
+{"order_id": 5340, "customer_id": 299, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Headphones", "price": 150.0, "qty": 2}], "order_date": "2026-08-20 21:39:00"}
+{"order_id": 5341, "customer_id": 299, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 2}], "order_date": "2026-08-20 12:06:00"}
+{"order_id": 5342, "customer_id": 263, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}], "order_date": "2026-08-20 18:56:00"}
+{"order_id": 5343, "customer_id": 210, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 2}, {"item_name": "Tablet", "price": 600.0, "qty": 2}, {"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 18:39:00"}
+{"order_id": 5344, "customer_id": 257, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Mouse", "price": 25.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 2}], "order_date": "2026-08-20 15:18:00"}
+{"order_id": 5345, "customer_id": 230, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 10:24:00"}
+{"order_id": 5346, "customer_id": 151, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 2}, {"item_name": "Mouse", "price": 25.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}], "order_date": "2026-08-20 15:35:00"}
+{"order_id": 5347, "customer_id": 194, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 21:31:00"}
+{"order_id": 5348, "customer_id": 290, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 1}, {"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 18:16:00"}
+{"order_id": 5349, "customer_id": 174, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 2}, {"item_name": "Headphones", "price": 150.0, "qty": 2}], "order_date": "2026-08-20 19:24:00"}
+{"order_id": 5350, "customer_id": 136, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 16:27:00"}
+{"order_id": 5351, "customer_id": 161, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}, {"item_name": "Headphones", "price": 150.0, "qty": 1}], "order_date": "2026-08-20 11:37:00"}
+{"order_id": 5352, "customer_id": 218, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 14:15:00"}
+{"order_id": 5353, "customer_id": 236, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 2}], "order_date": "2026-08-20 19:37:00"}
+{"order_id": 5354, "customer_id": 269, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 22:04:00"}
+{"order_id": 5355, "customer_id": 114, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 2}], "order_date": "2026-08-20 17:41:00"}
+{"order_id": 5356, "customer_id": 279, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}], "order_date": "2026-08-20 11:17:00"}
+{"order_id": 5357, "customer_id": 187, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 20:20:00"}
+{"order_id": 5358, "customer_id": 276, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 11:32:00"}
+{"order_id": 5359, "customer_id": 295, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 2}], "order_date": "2026-08-20 13:38:00"}
+{"order_id": 5360, "customer_id": 250, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 16:23:00"}
+{"order_id": 5361, "customer_id": 205, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}], "order_date": "2026-08-20 14:48:00"}
+{"order_id": 5362, "customer_id": 284, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}], "order_date": "2026-08-20 19:25:00"}
+{"order_id": 5363, "customer_id": 140, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Mouse", "price": 25.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}], "order_date": "2026-08-20 17:51:00"}
+{"order_id": 5364, "customer_id": 297, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 15:33:00"}
+{"order_id": 5365, "customer_id": 160, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 2}], "order_date": "2026-08-20 16:19:00"}
+{"order_id": 5366, "customer_id": 247, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 2}, {"item_name": "Tablet", "price": 600.0, "qty": 1}], "order_date": "2026-08-20 21:53:00"}
+{"order_id": 5367, "customer_id": 184, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}, {"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 20:39:00"}
+{"order_id": 5368, "customer_id": 152, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 2}], "order_date": "2026-08-20 17:05:00"}
+{"order_id": 5369, "customer_id": 107, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}], "order_date": "2026-08-20 16:10:00"}
+{"order_id": 5370, "customer_id": 292, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Mouse", "price": 25.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 13:40:00"}
+{"order_id": 5371, "customer_id": 170, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}], "order_date": "2026-08-20 21:20:00"}
+{"order_id": 5372, "customer_id": 204, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 15:24:00"}
+{"order_id": 5373, "customer_id": 133, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 2}], "order_date": "2026-08-20 21:14:00"}
+{"order_id": 5374, "customer_id": 295, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Headphones", "price": 150.0, "qty": 1}], "order_date": "2026-08-20 16:03:00"}
+{"order_id": 5375, "customer_id": 266, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 11:28:00"}
+{"order_id": 5376, "customer_id": 241, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}], "order_date": "2026-08-20 20:21:00"}
+{"order_id": 5377, "customer_id": 229, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 2}, {"item_name": "Headphones", "price": 150.0, "qty": 2}], "order_date": "2026-08-20 21:42:00"}
+{"order_id": 5378, "customer_id": 226, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 22:26:00"}
+{"order_id": 5379, "customer_id": 172, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 2}, {"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}], "order_date": "2026-08-20 13:50:00"}
+{"order_id": 5380, "customer_id": 123, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 20:20:00"}
+{"order_id": 5381, "customer_id": 201, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 1}], "order_date": "2026-08-20 16:09:00"}
+{"order_id": 5382, "customer_id": 233, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 2}], "order_date": "2026-08-20 17:32:00"}
+{"order_id": 5383, "customer_id": 229, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}], "order_date": "2026-08-20 13:16:00"}
+{"order_id": 5384, "customer_id": 178, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}, {"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Headphones", "price": 150.0, "qty": 1}], "order_date": "2026-08-20 10:52:00"}
+{"order_id": 5385, "customer_id": 140, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}], "order_date": "2026-08-20 16:40:00"}
+{"order_id": 5386, "customer_id": 247, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}], "order_date": "2026-08-20 19:04:00"}
+{"order_id": 5387, "customer_id": 178, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Mouse", "price": 25.0, "qty": 2}], "order_date": "2026-08-20 20:00:00"}
+{"order_id": 5388, "customer_id": 258, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 15:56:00"}
+{"order_id": 5389, "customer_id": 142, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Headphones", "price": 150.0, "qty": 1}], "order_date": "2026-08-20 11:16:00"}
+{"order_id": 5390, "customer_id": 298, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}], "order_date": "2026-08-20 14:21:00"}
+{"order_id": 5391, "customer_id": 159, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 2}], "order_date": "2026-08-20 20:31:00"}
+{"order_id": 5392, "customer_id": 276, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 18:03:00"}
+{"order_id": 5393, "customer_id": 124, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 2}], "order_date": "2026-08-20 21:42:00"}
+{"order_id": 5394, "customer_id": 222, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}], "order_date": "2026-08-20 13:51:00"}
+{"order_id": 5395, "customer_id": 223, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 12:29:00"}
+{"order_id": 5396, "customer_id": 288, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 17:23:00"}
+{"order_id": 5397, "customer_id": 248, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 14:42:00"}
+{"order_id": 5398, "customer_id": 128, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 1}], "order_date": "2026-08-20 21:00:00"}
+{"order_id": 5399, "customer_id": 253, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 2}], "order_date": "2026-08-20 16:31:00"}
+{"order_id": 5400, "customer_id": 154, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 2}], "order_date": "2026-08-20 16:47:00"}
+{"order_id": 5401, "customer_id": 282, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 20:34:00"}
+{"order_id": 5402, "customer_id": 113, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 2}], "order_date": "2026-08-20 10:56:00"}
+{"order_id": 5403, "customer_id": 101, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 17:12:00"}
+{"order_id": 5404, "customer_id": 223, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 22:29:00"}
+{"order_id": 5405, "customer_id": 244, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 13:39:00"}
+{"order_id": 5406, "customer_id": 213, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 19:24:00"}
+{"order_id": 5407, "customer_id": 267, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 14:07:00"}
+{"order_id": 5408, "customer_id": 271, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 21:44:00"}
+{"order_id": 5409, "customer_id": 128, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Headphones", "price": 150.0, "qty": 2}], "order_date": "2026-08-20 12:37:00"}
+{"order_id": 5410, "customer_id": 129, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 1}], "order_date": "2026-08-20 15:40:00"}
+{"order_id": 5411, "customer_id": 141, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Mouse", "price": 25.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}], "order_date": "2026-08-20 16:31:00"}
+{"order_id": 5412, "customer_id": 204, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 2}], "order_date": "2026-08-20 19:43:00"}
+{"order_id": 5413, "customer_id": 200, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 2}], "order_date": "2026-08-20 13:43:00"}
+{"order_id": 5414, "customer_id": 138, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 2}], "order_date": "2026-08-20 16:21:00"}
+{"order_id": 5415, "customer_id": 208, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Mouse", "price": 25.0, "qty": 2}], "order_date": "2026-08-20 10:10:00"}
+{"order_id": 5416, "customer_id": 234, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 14:35:00"}
+{"order_id": 5417, "customer_id": 172, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Tablet", "price": 600.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}], "order_date": "2026-08-20 22:32:00"}
+{"order_id": 5418, "customer_id": 224, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 2}], "order_date": "2026-08-20 11:01:00"}
+{"order_id": 5419, "customer_id": 216, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 1}], "order_date": "2026-08-20 16:02:00"}
+{"order_id": 5420, "customer_id": 164, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 2}, {"item_name": "Mouse", "price": 25.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 2}], "order_date": "2026-08-20 20:05:00"}
+{"order_id": 5421, "customer_id": 101, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}], "order_date": "2026-08-20 18:26:00"}
+{"order_id": 5422, "customer_id": 212, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 2}, {"item_name": "Headphones", "price": 150.0, "qty": 2}, {"item_name": "Headphones", "price": 150.0, "qty": 2}], "order_date": "2026-08-20 14:34:00"}
+{"order_id": 5423, "customer_id": 235, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 2}], "order_date": "2026-08-20 11:18:00"}
+{"order_id": 5424, "customer_id": 226, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 17:52:00"}
+{"order_id": 5425, "customer_id": 277, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 17:34:00"}
+{"order_id": 5426, "customer_id": 153, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 1}, {"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 17:34:00"}
+{"order_id": 5427, "customer_id": 159, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Mouse", "price": 25.0, "qty": 2}], "order_date": "2026-08-20 19:46:00"}
+{"order_id": 5428, "customer_id": 207, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 16:39:00"}
+{"order_id": 5429, "customer_id": 118, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 2}], "order_date": "2026-08-20 12:15:00"}
+{"order_id": 5430, "customer_id": 182, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 2}], "order_date": "2026-08-20 12:32:00"}
+{"order_id": 5431, "customer_id": 116, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}], "order_date": "2026-08-20 22:03:00"}
+{"order_id": 5432, "customer_id": 114, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 15:37:00"}
+{"order_id": 5433, "customer_id": 185, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 2}], "order_date": "2026-08-20 18:16:00"}
+{"order_id": 5434, "customer_id": 242, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 18:09:00"}
+{"order_id": 5435, "customer_id": 264, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}], "order_date": "2026-08-20 21:26:00"}
+{"order_id": 5436, "customer_id": 281, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 11:53:00"}
+{"order_id": 5437, "customer_id": 159, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 2}], "order_date": "2026-08-20 10:27:00"}
+{"order_id": 5438, "customer_id": 246, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 21:48:00"}
+{"order_id": 5439, "customer_id": 162, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 2}], "order_date": "2026-08-20 21:43:00"}
+{"order_id": 5440, "customer_id": 184, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 2}], "order_date": "2026-08-20 18:32:00"}
+{"order_id": 5441, "customer_id": 253, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 2}], "order_date": "2026-08-20 16:30:00"}
+{"order_id": 5442, "customer_id": 146, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}], "order_date": "2026-08-20 18:24:00"}
+{"order_id": 5443, "customer_id": 165, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 2}], "order_date": "2026-08-20 15:12:00"}
+{"order_id": 5444, "customer_id": 154, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Headphones", "price": 150.0, "qty": 1}], "order_date": "2026-08-20 11:58:00"}
+{"order_id": 5445, "customer_id": 152, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}], "order_date": "2026-08-20 20:34:00"}
+{"order_id": 5446, "customer_id": 119, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}], "order_date": "2026-08-20 10:09:00"}
+{"order_id": 5447, "customer_id": 288, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}], "order_date": "2026-08-20 14:55:00"}
+{"order_id": 5448, "customer_id": 251, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 17:48:00"}
+{"order_id": 5449, "customer_id": 228, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 1}], "order_date": "2026-08-20 15:13:00"}
+{"order_id": 5450, "customer_id": 152, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 2}], "order_date": "2026-08-20 17:59:00"}
+{"order_id": 5451, "customer_id": 134, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 2}], "order_date": "2026-08-20 18:13:00"}
+{"order_id": 5452, "customer_id": 243, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 16:28:00"}
+{"order_id": 5453, "customer_id": 175, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 12:04:00"}
+{"order_id": 5454, "customer_id": 137, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 2}], "order_date": "2026-08-20 19:57:00"}
+{"order_id": 5455, "customer_id": 196, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}], "order_date": "2026-08-20 19:32:00"}
+{"order_id": 5456, "customer_id": 204, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 1}], "order_date": "2026-08-20 12:06:00"}
+{"order_id": 5457, "customer_id": 159, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 2}], "order_date": "2026-08-20 19:35:00"}
+{"order_id": 5458, "customer_id": 155, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 21:18:00"}
+{"order_id": 5459, "customer_id": 297, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}], "order_date": "2026-08-20 15:48:00"}
+{"order_id": 5460, "customer_id": 293, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 2}], "order_date": "2026-08-20 17:01:00"}
+{"order_id": 5461, "customer_id": 121, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Monitor", "price": 300.0, "qty": 2}], "order_date": "2026-08-20 15:57:00"}
+{"order_id": 5462, "customer_id": 288, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 17:39:00"}
+{"order_id": 5463, "customer_id": 285, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}], "order_date": "2026-08-20 19:17:00"}
+{"order_id": 5464, "customer_id": 114, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 1}], "order_date": "2026-08-20 20:28:00"}
+{"order_id": 5465, "customer_id": 136, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}], "order_date": "2026-08-20 21:38:00"}
+{"order_id": 5466, "customer_id": 186, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 2}], "order_date": "2026-08-20 11:30:00"}
+{"order_id": 5467, "customer_id": 263, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 17:01:00"}
+{"order_id": 5468, "customer_id": 212, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 22:36:00"}
+{"order_id": 5469, "customer_id": 210, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}, {"item_name": "Tablet", "price": 600.0, "qty": 1}], "order_date": "2026-08-20 14:06:00"}
+{"order_id": 5470, "customer_id": 118, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 15:14:00"}
+{"order_id": 5471, "customer_id": 191, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 20:20:00"}
+{"order_id": 5472, "customer_id": 156, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 21:09:00"}
+{"order_id": 5473, "customer_id": 280, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 22:53:00"}
+{"order_id": 5474, "customer_id": 193, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 2}, {"item_name": "Headphones", "price": 150.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 11:40:00"}
+{"order_id": 5475, "customer_id": 189, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 1}], "order_date": "2026-08-20 18:24:00"}
+{"order_id": 5476, "customer_id": 143, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 1}, {"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 20:33:00"}
+{"order_id": 5477, "customer_id": 158, "items": [{"item_name": "Tablet", "price": 600.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 18:05:00"}
+{"order_id": 5478, "customer_id": 189, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 14:49:00"}
+{"order_id": 5479, "customer_id": 109, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}, {"item_name": "Laptop", "price": 1200.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 2}], "order_date": "2026-08-20 18:07:00"}
+{"order_id": 5480, "customer_id": 120, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 12:16:00"}
+{"order_id": 5481, "customer_id": 271, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 17:29:00"}
+{"order_id": 5482, "customer_id": 234, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 2}, {"item_name": "Monitor", "price": 300.0, "qty": 2}], "order_date": "2026-08-20 18:02:00"}
+{"order_id": 5483, "customer_id": 167, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}], "order_date": "2026-08-20 20:10:00"}
+{"order_id": 5484, "customer_id": 262, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 2}, {"item_name": "Tablet", "price": 600.0, "qty": 1}], "order_date": "2026-08-20 17:48:00"}
+{"order_id": 5485, "customer_id": 231, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 1}], "order_date": "2026-08-20 12:50:00"}
+{"order_id": 5486, "customer_id": 156, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Tablet", "price": 600.0, "qty": 1}, {"item_name": "Headphones", "price": 150.0, "qty": 2}], "order_date": "2026-08-20 15:18:00"}
+{"order_id": 5487, "customer_id": 299, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 2}, {"item_name": "Headphones", "price": 150.0, "qty": 2}], "order_date": "2026-08-20 11:53:00"}
+{"order_id": 5488, "customer_id": 288, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 2}, {"item_name": "Tablet", "price": 600.0, "qty": 1}], "order_date": "2026-08-20 16:17:00"}
+{"order_id": 5489, "customer_id": 173, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 2}], "order_date": "2026-08-20 19:05:00"}
+{"order_id": 5490, "customer_id": 220, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 21:55:00"}
+{"order_id": 5491, "customer_id": 157, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 2}, {"item_name": "Cover", "price": 30.0, "qty": 1}], "order_date": "2026-08-20 19:38:00"}
+{"order_id": 5492, "customer_id": 152, "items": [{"item_name": "Keyboard", "price": 45.0, "qty": 1}, {"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 21:09:00"}
+{"order_id": 5493, "customer_id": 288, "items": [{"item_name": "Monitor", "price": 300.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Headphones", "price": 150.0, "qty": 2}], "order_date": "2026-08-20 22:15:00"}
+{"order_id": 5494, "customer_id": 174, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 2}, {"item_name": "Keyboard", "price": 45.0, "qty": 1}], "order_date": "2026-08-20 18:03:00"}
+{"order_id": 5495, "customer_id": 238, "items": [{"item_name": "Headphones", "price": 150.0, "qty": 2}], "order_date": "2026-08-20 22:30:00"}
+{"order_id": 5496, "customer_id": 262, "items": [{"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Cover", "price": 30.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 13:35:00"}
+{"order_id": 5497, "customer_id": 176, "items": [{"item_name": "Mouse", "price": 25.0, "qty": 2}, {"item_name": "Laptop", "price": 1200.0, "qty": 1}], "order_date": "2026-08-20 14:32:00"}
+{"order_id": 5498, "customer_id": 176, "items": [{"item_name": "Laptop", "price": 1200.0, "qty": 1}, {"item_name": "Mouse", "price": 25.0, "qty": 1}], "order_date": "2026-08-20 22:27:00"}
+{"order_id": 5499, "customer_id": 141, "items": [{"item_name": "Cover", "price": 30.0, "qty": 2}], "order_date": "2026-08-20 16:49:00"}
